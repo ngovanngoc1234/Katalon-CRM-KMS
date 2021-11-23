@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Payment fail with invaild information card</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9ceb09e-a94a-4a4f-8ca3-cd2e067c3358</testCaseGuid>
+   <variable>
+      <defaultValue>'abc@abc.abc'</defaultValue>
+      <description></description>
+      <id>e81d7be2-89db-427e-ae87-bd61f09e03dd</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'4244 4242 4242 4242'</defaultValue>
+      <description></description>
+      <id>fe99e8e0-17a9-46e2-868f-2e5baf7abe71</id>
+      <masked>false</masked>
+      <name>card_number</name>
+   </variable>
+   <variable>
+      <defaultValue>'22/02'</defaultValue>
+      <description></description>
+      <id>7fd9e548-3e9f-4292-85b9-93270ad774a5</id>
+      <masked>false</masked>
+      <name>Expiration_date</name>
+   </variable>
+   <variable>
+      <defaultValue>'222'</defaultValue>
+      <description></description>
+      <id>b7635962-ac32-4607-9665-bf87c30434d8</id>
+      <masked>false</masked>
+      <name>CVC</name>
+   </variable>
+   <variable>
+      <defaultValue>'22222'</defaultValue>
+      <description></description>
+      <id>46d7c2f9-260c-4c0d-b358-93c402b1e39c</id>
+      <masked>false</masked>
+      <name>ZIP</name>
+   </variable>
+</TestCaseEntity>

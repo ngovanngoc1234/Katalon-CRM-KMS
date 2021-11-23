@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Data product name and price</description>
+   <name>List product all</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>03a2e0d4-a89b-40cd-9006-387659a88dc0</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Khaki+Suede+Polish+Work+Boots %24149.99</data>
+   <data>Camo+Fang+Backpack+Jungle %2439.99</data>
+   <data>Knit+Sweater+with+Zips %2429.99</data>
+   <data>Camo+Fang+Backpack+Jungle %2459.99</data>
+   <data>Golden+Pilot+Jacket %24129.99</data>
+   <data>Spotted+Patterned+Sweater %2480.99</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>name</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>price</name>
+      <size>6</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

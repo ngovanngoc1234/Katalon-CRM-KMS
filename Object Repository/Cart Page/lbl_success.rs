@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lbl_success</name>
+   <tag></tag>
+   <elementGuidId>d81b56fd-f2dd-4c7c-b22b-bb0ca2d14c58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class='wrapper']//*[contains(text(),'Success!')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class='wrapper']//*[contains(text(),'Success!')]</value>
+   </webElementProperties>
+</WebElementEntity>

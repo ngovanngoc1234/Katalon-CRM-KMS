@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe</name>
+   <tag></tag>
+   <elementGuidId>f09f10bb-8b2f-4131-b86b-d4268f7af3ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//iframe[@name='__privateStripeFrame73915']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id=&quot;card&quot;]/div/div/iframe</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id=&quot;card&quot;]/div/div/iframe</value>
+   </webElementProperties>
+</WebElementEntity>

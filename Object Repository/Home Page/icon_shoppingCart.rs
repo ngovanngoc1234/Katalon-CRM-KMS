@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_shoppingCart</name>
+   <tag></tag>
+   <elementGuidId>6a7a340f-d302-41b6-bf7a-65a8d913b2eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href='/cart']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href='/cart']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@href='/cart']</value>
+   </webElementProperties>
+</WebElementEntity>

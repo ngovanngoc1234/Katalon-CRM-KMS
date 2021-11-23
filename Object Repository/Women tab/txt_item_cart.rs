@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_item_cart</name>
+   <tag></tag>
+   <elementGuidId>d51a7f88-62a3-48e5-ab86-4adbfc21fca5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;cartitems&quot;]/div[@class=&quot;carttext&quot;][1]/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;cartitems&quot;]/div[@class=&quot;carttext&quot;][1]/h4</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case verify filter not &quot;sale&quot; tag</description>
+   <name>Filter not SALE tag</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>611ce221-739c-49cd-a01e-83e52e4c033c</testCaseGuid>
+</TestCaseEntity>

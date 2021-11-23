@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Payment successfully for any one item which has &quot;SALE&quot; tag</description>
+   <name>Payment one item successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6d8447cc-203e-4e09-aeab-2e45b8b1b88b</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.email</defaultValue>
+      <description></description>
+      <id>d8328446-6b13-4b9f-ba27-122e8aadc66c</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.card_number</defaultValue>
+      <description></description>
+      <id>552c67c8-cb59-465d-9eb9-34938225c576</id>
+      <masked>false</masked>
+      <name>cardnumber</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.exp_date</defaultValue>
+      <description></description>
+      <id>7c7df284-012a-449f-9c23-b4b9c329b99c</id>
+      <masked>false</masked>
+      <name>expdate</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.cvc</defaultValue>
+      <description></description>
+      <id>7ed4b552-3486-411d-9ee8-ce96fdf2bfd8</id>
+      <masked>false</masked>
+      <name>cvc</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.zip</defaultValue>
+      <description></description>
+      <id>6aa4a59a-de04-490f-a11b-a944ff8f3ca5</id>
+      <masked>false</masked>
+      <name>zip</name>
+   </variable>
+</TestCaseEntity>

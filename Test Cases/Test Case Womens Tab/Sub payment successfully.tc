@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sub payment successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6221600-7298-4301-9b49-fcf1b14bdcfe</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>09386102-d88c-4d67-93e3-042e234d2a30</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

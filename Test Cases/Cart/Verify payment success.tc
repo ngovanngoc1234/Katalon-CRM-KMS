@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify payment success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6c77dc3d-4e95-46a0-8b9d-140302ad2e94</testCaseGuid>
+   <variable>
+      <defaultValue>'test1@test.com'</defaultValue>
+      <description></description>
+      <id>60f35fcc-cdd2-41d1-863f-501b3d5fee8d</id>
+      <masked>true</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'4242424242424242'</defaultValue>
+      <description></description>
+      <id>62cace02-6426-4d5c-b439-888cb6cd25a9</id>
+      <masked>true</masked>
+      <name>cardnumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'1223'</defaultValue>
+      <description></description>
+      <id>41a71a2e-11d5-47d1-9210-d2f1f136b835</id>
+      <masked>true</masked>
+      <name>expdate</name>
+   </variable>
+   <variable>
+      <defaultValue>'123'</defaultValue>
+      <description></description>
+      <id>b41212ca-2710-4021-a30c-0d750b55215a</id>
+      <masked>true</masked>
+      <name>cvc</name>
+   </variable>
+   <variable>
+      <defaultValue>'12345'</defaultValue>
+      <description></description>
+      <id>e9920c59-b986-4e31-bacc-7f1840d6bc26</id>
+      <masked>true</masked>
+      <name>zip</name>
+   </variable>
+   <variable>
+      <defaultValue>'Success!'</defaultValue>
+      <description></description>
+      <id>64e4fb47-5678-4315-8e3c-5f29fa161162</id>
+      <masked>true</masked>
+      <name>lblsuccess</name>
+   </variable>
+   <variable>
+      <defaultValue>'Your order has been processed, it will be delivered shortly.'</defaultValue>
+      <description></description>
+      <id>5c59d5ff-39a4-418c-992e-edb9ba397648</id>
+      <masked>true</masked>
+      <name>lblsuccessdesc</name>
+   </variable>
+</TestCaseEntity>
